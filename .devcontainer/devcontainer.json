@@ -1,0 +1,11 @@
+{
+  "name": "VLESS Proxy Codespace",
+  "forwardPorts": [10000],
+  "portsAttributes": {
+    "10000": {
+      "label": "VLESS WebSocket Proxy",
+      "onAutoForward": "notify"
+    }
+  },
+  "postStartCommand": "docker build -t vless-server . && docker run -d --name vless-node -p 10000:10000 --restart always vless-server && sleep 3 && gh codespace ports visibility 10000:public || true"
+}
