@@ -1,3 +1,10 @@
 .DS_Store
 *.log
 /tmp/
+render-keepalive/
+docker-sweep/
+webhook-lens/
+git-profile-kit/
+ibrahimali111/
+android-mcp/
+fair-hearts/

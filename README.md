@@ -1,3 +1,11 @@
+<div align="right">
+  <em>💡 100% original ideas &nbsp;•&nbsp; 🤖 100% vibe coding &nbsp;•&nbsp; 🚫 0% nudes</em>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ibrahimali111" title="100% Original Ideas • 100% Vibe Coding • 0% Nudes">
+    <img src="https://raw.githubusercontent.com/ibrahimali111/fair-hearts/main/assets/vibe-coded-badge.svg" height="28" alt="Vibe Coded" />
+  </a>
+</div>
+
 # VLESS WebSocket Proxy for Render
 
 <p align="center">
